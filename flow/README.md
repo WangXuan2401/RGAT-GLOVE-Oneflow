@@ -22,7 +22,7 @@ WebIDE 环境要求:
 
    + Restaurants, Laptop, Tweets and MAMS 数据集. (将会提供在`dataset`中)
 
-   + 下载 【 Glove embeddings ](http://nlp.stanford.edu/data/glove.840B.300d.zip)), 
+   + 下载 [ Glove embeddings ](http://nlp.stanford.edu/data/glove.840B.300d.zip)), 
       然后运行
 
      ```
